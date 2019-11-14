@@ -599,22 +599,21 @@ rm(Temp)
 
 ###############################################
 # calculate citation numbers for all years combined for each source using opencitations
-#create a list of unpaywall dois
+# create a list of unpaywall dois
 Data.upw.doi <- Data.all[sapply(Data.all, function(x) "is_oa"%in%names(x))]
 Data.upw.doi <- unlist(sapply(Data.upw.doi, function(x) unlist(x["f0_"])))
-#calculate to citations for all 15 unis and 2000 to 2018 combined,
-#using dois indexed in unpaywall
+# calculate total citations for all 15 unis and 2000 to 2018 combined,
+# using dois indexed in unpaywall
+# the data table "data.opencitations" contains the total citation counts for each DOIs in our data set
+# these are derived from OpenCitations
+# now calculatd citation totals for each source and for combined set
 sum(data.opencitations[data.opencitations$doi%in%
-                         Data.wos.allyear.doi[Data.wos.allyear.doi%in%Data.upw.doi],]$citations_total)
+    Data.wos.allyear.doi[Data.wos.allyear.doi%in%Data.upw.doi],]$citations_total)
 sum(data.opencitations[data.opencitations$doi%in%
-                         Data.scopus.allyear.doi[Data.scopus.allyear.doi%in%Data.upw.doi],]$citations_total)
+    Data.scopus.allyear.doi[Data.scopus.allyear.doi%in%Data.upw.doi],]$citations_total)
 sum(data.opencitations[data.opencitations$doi%in%
-                         Data.msa.allyear.doi[Data.msa.allyear.doi%in%Data.upw.doi],]$citations_total)
-sum(data.opencitations[data.opencitations$doi%in%
-                         unique(c(Data.wos.allyear.doi[Data.wos.allyear.doi%in%Data.upw.doi],
-                                  Data.scopus.allyear.doi[Data.scopus.allyear.doi%in%Data.upw.doi],
-                                  Data.msa.allyear.doi[Data.msa.allyear.doi%in%Data.upw.doi])),
-                       ]$citations_total)
+    Data.msa.allyear.doi[Data.msa.allyear.doi%in%Data.upw.doi],]$citations_total)
+sum(data.opencitations$citations_total)
 #using the full sets of dois, i.e., including non-Unpaywall dois
 #sum(data.opencitations[data.opencitations$doi%in%Data.wos.allyear.doi,]$citations_total)
 #sum(data.opencitations[data.opencitations$doi%in%Data.scopus.allyear.doi,]$citations_total)

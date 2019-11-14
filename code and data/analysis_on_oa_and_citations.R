@@ -187,6 +187,7 @@ ggplot(melt(data.oa.processed[,c('wos.scopus.rank','wos.msa.rank','scopus.msa.ra
 ###############################################
 # analysis on citations for 2016 using opencitations
 # calculate citation counts and average citations for each university, as per source
+# the data table "data.opencitations" contains the total citation count for each DOI in our data, as per OpenCitations
 data.citation <- matrix(,nrow=0,ncol=7)
 colnames(data.citation) <- c("grid_id","cit_wos","cit_scopus","cit_msa","cit_ave_wos","cit_ave_scopus","cit_ave_msa")
 for (g in 1:length(grid.ids)) {
@@ -231,7 +232,7 @@ data.citation.15.melt$value <- as.numeric(as.character(data.citation.15.melt$val
 ggplot(data.citation.15.melt, aes(x = variable, y = value, group=name, colour = name)) + 
   geom_line(size=1) +
   geom_point(size=2) +
-  scale_y_continuous(trans = "reverse", breaks = unique(data.oa.15.melt$value)) +
+  scale_y_continuous(trans = "reverse", breaks = unique(data.citation.15.melt$value)) +
   scale_x_discrete(limits=c("scopus_rank","wos_rank","msa_rank")) +
   scale_colour_discrete(guide = 'none') +
   theme(panel.grid.minor = element_blank())+
