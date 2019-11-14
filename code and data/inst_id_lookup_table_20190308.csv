@@ -1,0 +1,1006 @@
+grid_id,name,wos_names
+grid.1001.0,Australian National University,Australian National University
+grid.1002.3,Monash University,Monash University
+grid.10025.36,University of Liverpool,University of Liverpool
+grid.1003.2,The University of Queensland,University of Queensland
+grid.1004.5,Macquarie University,Macquarie University
+grid.10041.34,University of La Laguna,Universidad de la Laguna
+grid.10049.3c,University of Limerick,University of Limerick
+grid.1005.4,University of New South Wales,University of New South Wales Sydney
+grid.1006.7,Newcastle University,Newcastle University - UK
+grid.1007.6,University of Wollongong,University of Wollongong
+grid.1008.9,The University of Melbourne,University of Melbourne
+grid.1009.8,University of Tasmania,University of Tasmania
+grid.1010.0,The University of Adelaide,University of Adelaide
+grid.1011.1,James Cook University,James Cook University
+grid.1012.2,The University of Western Australia,University of Western Australia
+grid.1013.3,Sydney University,University of Sydney
+grid.1014.4,Flinders University,Flinders University South Australia
+grid.1017.7,RMIT University,ROYAL MELBOURNE INSTITUTE OF TECHNOLOGY RMIT
+grid.1018.8,La Trobe University,La Trobe University
+grid.1019.9,Victoria University Australia,Victoria University
+grid.1020.3,The University of New England,University of New England
+grid.1021.2,Deakin University,Deakin University
+grid.1022.1,Griffith University,Griffith University
+grid.10223.32,Mahidol University,Mahidol University
+grid.1023.0,Central Queensland (CQ) University,Central Queensland University
+grid.1024.7,Queensland University of Technology,Queensland University of Technology QUT
+grid.1025.6,Murdoch University,Murdoch University
+grid.10251.37,Mansoura University,Mansoura University
+grid.10253.35,University of Marburg,Philipps University Marburg
+grid.1026.5,University of South Australia,University of South Australia
+grid.10267.32,Masaryk University,Masaryk University Brno
+grid.1027.4,Swinburne University of Technology,Swinburne University of Technology
+grid.1029.a,Western Sydney University,Western Sydney University
+grid.1031.3,Southern Cross University,Southern Cross University
+grid.1032.0,Curtin University,Curtin University
+grid.10328.38,University of Minho,Universidade do Minho
+grid.1033.1,Bond University,Bond University
+grid.1034.6,University of the Sunshine Coast,University of the Sunshine Coast
+grid.10346.30,Leeds Beckett University,Leeds Metropolitan University
+grid.10347.31,University of Malaya,Universiti Malaya
+grid.1035.7,Warsaw University of Technology,Warsaw University of Technology
+grid.1037.5,Charles Sturt University,Charles Sturt University
+grid.1038.a,Edith Cowan University,Edith Cowan University
+grid.10383.39,University of Parma,University of Parma
+grid.10388.32,University of Bonn,UNIVERSITY OF BONN
+grid.1039.b,University of Canberra,University of Canberra
+grid.10392.39,University of TÃ¼bingen,Eberhard Karls University of Tubingen
+grid.1040.5,Federation University Australia,Federation University Australia
+grid.10420.37,University of Vienna,University of Vienna
+grid.1043.6,Charles Darwin University,Charles Darwin University
+grid.1048.d,University of Southern Queensland,University of Southern Queensland
+grid.10516.33,Istanbul Technical University,Istanbul Technical University
+grid.10548.38,Stockholm University,Stockholm University
+grid.10586.3a,University of Murcia,University of Murcia
+grid.10698.36,University of North Carolina at Chapel Hill,UNIVERSITY OF NORTH CAROLINA CHAPEL HILL
+grid.10711.36,University of NeuchÃ¢tel,University of Neuchatel
+grid.10772.33,NOVA University of Lisbon,Universidade Nova de Lisboa
+grid.10776.37,University of Palermo,University of Palermo
+grid.10784.3a,Chinese University of Hong Kong,Chinese University of Hong Kong
+grid.10825.3e,University of Southern Denmark,University of Southern Denmark
+grid.108365.9,National University of San MartÃ­n,not found
+grid.10837.3d,The Open University,Open University - UK
+grid.10858.34,University of Oulu,University of Oulu
+grid.10863.3c,University of Oviedo,University of Oviedo
+grid.10877.39,Ã‰cole Polytechnique,Ecole Polytechnique
+grid.10919.30,UiT The Arctic University of Norway,UiT The Arctic University of Tromso
+grid.10939.32,University of Tartu,University of Tartu
+grid.10979.36,PalackÃ½ University Olomouc,Palacky University Olomouc
+grid.10988.38,PanthÃ©on-Sorbonne University â€“ Paris 1,Universite Pantheon-Sorbonne
+grid.10999.38,University of Talca,Universidad de Talca
+grid.11046.32,University of Passau,University of Passau
+grid.11047.33,University of Patras,University of Patras
+grid.11100.31,Universidad Peruana Cayetano Heredia,Universidad Peruana Cayetano Heredia
+grid.11135.37,Peking University,Peking University
+grid.11142.37,Universiti Putra Malaysia,Universiti Putra Malaysia
+grid.11194.3c,Makerere University,Makerere University
+grid.11201.33,Plymouth University,University of Plymouth
+grid.11205.37,University of Zaragoza,University of Zaragoza
+grid.11220.30,BoÄŸaziÃ§i University,Bogazici University
+grid.11348.3f,University of Potsdam,University of Potsdam
+grid.11417.32,Federal University of Toulouse Midi-PyrÃ©nÃ©es,Universite Federale Toulouse Midi-Pyrenees ComUE
+grid.11450.31,University of Sassari,University of Sassari
+grid.11480.3c,University of the Basque Country,University of Basque Country
+grid.11598.34,Medical University of Graz,Medical University of Graz
+grid.116068.8,Massachusetts Institute of Technology,Massachusetts Institute of Technology MIT
+grid.11696.39,University of Trento,University of Trento
+grid.11702.35,Roskilde University,Roskilde University
+grid.117476.2,University of Technology Sydney,University of Technology Sydney
+grid.11762.33,University of Salamanca,University of Salamanca
+grid.11780.3f,University of Salerno,University of Salerno
+grid.11794.3a,University of Santiago de Compostela,University of Santiago De Compostela
+grid.11804.3c,Semmelweis University,Semmelweis University
+grid.11835.3e,University of Sheffield,University of Sheffield
+grid.11843.3f,University of Strasbourg,Universite de Strasbourg
+grid.11875.3a,Universiti Sains Malaysia,Universiti Sains Malaysia
+grid.11899.38,University of Sao Paulo,Universidade de Sao Paulo
+grid.11914.3c,University of St Andrews,University of St Andrews
+grid.11918.30,University of Stirling,University of Stirling
+grid.11951.3d,University of the Witwatersrand,University of Witwatersrand
+grid.11956.3a,Stellenbosch University,Stellenbosch University
+grid.11984.35,University of Strathclyde,University of Strathclyde
+grid.12082.39,University of Sussex,University of Sussex
+grid.121334.6,Montpellier University,Universite de Montpellier
+grid.12136.37,Tel Aviv University,Tel Aviv University
+grid.12148.3e,Federico Santa MarÃ­a Technical University,Universidad Tecnica Federico Santa Maria
+grid.12155.32,Hasselt University,Hasselt University
+grid.12295.3d,Tilburg University,Tilburg University
+grid.12332.31,Lappeenranta University of Technology,Lappeenranta University of Technology
+grid.12341.35,University of TrÃ¡s-os-Montes and Alto Douro,University of Tras-os-Montes & Alto Douro
+grid.12361.37,Nottingham Trent University,Nottingham Trent University
+grid.12380.38,VU University Amsterdam,VRIJE UNIVERSITEIT AMSTERDAM
+grid.12477.37,University of Brighton,University of Brighton
+grid.12527.33,Tsinghua University,Tsinghua University
+grid.12641.30,Ulster University,Ulster University
+grid.12650.30,UmeÃ¥ University,Umea University
+grid.12711.34,University of Urbino Carlo Bo,University of Urbino
+grid.12832.3a,UniversitÃ© de Versailles Saint-Quentin-en-Yvelines,Universite de Versailles Saint-Quentin-En-Yvelines
+grid.12847.38,University of Warsaw,University of Warsaw
+grid.12896.34,University of Westminster,University of Westminster
+grid.12916.3d,The University of the West Indies,University of the West Indies
+grid.12955.3a,Xiamen University,Xiamen University
+grid.12981.33,Sun Yat-sen University,Sun Yat Sen University
+grid.13063.37,London School of Economics and Political Science,London School of Economics and Political Science
+grid.13097.3c,Kingâ€™s College London,Kings College London
+grid.131063.6,University of Notre Dame,University of Notre Dame
+grid.13291.38,Sichuan University,Sichuan University
+grid.133342.4,"University of California, Santa Barbara",University of California Santa Barbara
+grid.13402.34,Zhejiang University,Zhejiang University
+grid.134563.6,University of Arizona,University of Arizona
+grid.136304.3,Chiba University,Chiba University
+grid.136593.b,Osaka University,Osaka University
+grid.136594.c,Tokyo University of Agriculture and Technology,Tokyo University of Agriculture & Technology
+grid.1374.1,University of Turku,University of Turku
+grid.137628.9,New York University,New York University
+grid.14003.36,University of Wisconsin-Madison,University of Wisconsin Madison
+grid.14005.30,Chonnam National University,Chonnam National University
+grid.14013.37,University of Iceland,University of Iceland
+grid.14095.39,Free University of Berlin,Free University of Berlin
+grid.143640.4,University of Victoria,University of Victoria
+grid.143643.7,Tokyo University of Science,Tokyo University of Science
+grid.144022.1,NorthWest A&F University,Northwest A&F University - China
+grid.14442.37,Hacettepe University,Hacettepe University
+grid.14476.30,Moscow State University,LOMONOSOV MOSCOW STATE UNIVERSITY
+grid.145695.a,Chang Gung University,Chang Gung University
+grid.14709.3b,McGill University,McGill University
+grid.14724.34,University of Deusto,University of Deusto
+grid.148374.d,Massey University,Massey University
+grid.14848.31,University of Montreal,University of Montreal
+grid.15034.33,University of Bedfordshire,University of Bedfordshire
+grid.15078.3b,Jacobs University,Jacobs University
+grid.15140.31,Ã‰cole Normale SupÃ©rieure de Lyon,Ecole Normale Superieure de Lyon ENS LYON
+grid.152326.1,Vanderbilt University,Vanderbilt University
+grid.15276.37,University of Florida,University of Florida
+grid.15399.37,National Institute of Applied Sciences of Lyon (INSA Lyon),Institut National des Sciences Appliquees de Lyon - INSA Lyon
+grid.15401.31,Ã‰cole Centrale de Lyon,Ecole Centrale de Lyon
+grid.15444.30,Yonsei University (Seoul campus),Yonsei University
+grid.15447.33,Saint Petersburg State University,Saint Petersburg State University
+grid.15449.3d,Pablo de Olavide University,Universidad Pablo de Olavide
+grid.15496.3f,Vita-Salute San Raffaele University,Vita-Salute San Raffaele University
+grid.15538.3a,Kingston University,Kingston University
+grid.15596.3e,Dublin City University,Dublin City University
+grid.15751.37,University of Huddersfield,University of Huddersfield
+grid.15756.30,University of the West of Scotland,University of West Scotland
+grid.15775.31,University of St Gallen,University of St Gallen
+grid.157927.f,Polytechnic University of Valencia,Universitat Politecnica de Valencia
+grid.15810.3d,Cyprus University of Technology,Cyprus University of Technology
+grid.15822.3c,Middlesex University,Middlesex University
+grid.15866.3c,Czech University of Life Sciences Prague (CULS),Czech University of Life Sciences Prague
+grid.15876.3d,KoÃ§ University,Koc University
+grid.15895.30,Ã–rebro University,Orebro University
+grid.16008.3f,University of Luxembourg,University of Luxembourg
+grid.16068.39,Centrale Nantes,Ecole Centrale de Nantes
+grid.162110.5,Wuhan University of Technology,Wuhan University of Technology
+grid.16299.35,Athens University of Economics and Business,Athens University of Economics & Business
+grid.16416.34,University of Rochester,University of Rochester
+grid.164295.d,"University of Maryland, College Park",University of Maryland College Park
+grid.16463.36,University of KwaZulu-Natal,UNIVERSITY OF KWAZULU NATAL
+grid.16488.33,Lincoln University,Lincoln University
+grid.166341.7,Drexel University,Drexel University
+grid.16750.35,Princeton University,Princeton University
+grid.16753.36,Northwestern University,Northwestern University
+grid.168010.e,Stanford University,Stanford University
+grid.16821.3c,Shanghai Jiao Tong University,Shanghai Jiao Tong University
+grid.16890.36,Hong Kong Polytechnic University,Hong Kong Polytechnic University
+grid.169077.e,Purdue University,Purdue University
+grid.170205.1,University of Chicago,University of Chicago
+grid.170430.1,University of Central Florida,University of Central Florida
+grid.17063.33,University of Toronto,University of Toronto
+grid.170693.a,University of South Florida,University of South Florida
+grid.17088.36,Michigan State University,Michigan State University
+grid.17089.37,University of Alberta,University of Alberta
+grid.17091.3e,University of British Columbia,University of British Columbia
+grid.17236.31,Bournemouth University,Bournemouth University
+grid.174567.6,Nagasaki University,Nagasaki University
+grid.17635.36,University of Minnesota Twin Cities,University of Minnesota Twin Cities
+grid.177174.3,Kyushu University,Kyushu University
+grid.18098.38,University of Haifa,University of Haifa
+grid.181531.f,Beijing Jiaotong University,Beijing Jiaotong University
+grid.181790.6,University of Leoben,University of Leoben
+grid.183446.c,National Research Nuclear University MEPhI,National Research Nuclear University MEPhI Moscow Engineering Physics Institute
+grid.18376.3b,Bilkent University,Ihsan Dogramaci Bilkent University
+grid.185648.6,University of Illinois at Chicago,University of Illinois Chicago
+grid.18763.3b,Moscow Institute of Physics and Technology,Moscow Institute of Physics & Technology
+grid.189504.1,Boston University,Boston University
+grid.189747.4,State University of New York Albany,State University of New York SUNY Albany
+grid.189967.8,Emory University,Emory University
+grid.19003.3b,Indian Institute of Technology Roorkee,Indian Institute of Technology IIT - Roorkee
+grid.19006.3e,University of California Los Angeles,University of California Los Angeles
+grid.190737.b,Chongqing University,Chongqing University
+grid.19188.39,National Taiwan University,National Taiwan University
+grid.19373.3f,Harbin Institute of Technology,Harbin Institute of Technology
+grid.194645.b,University of Hong Kong,University of Hong Kong
+grid.19477.3c,Norwegian University of Life Sciences,Norwegian University of Life Sciences
+grid.1957.a,RWTH Aachen University,RWTH Aachen University
+grid.19873.34,Staffordshire University,Staffordshire University
+grid.202119.9,Inha University,Inha University
+grid.20409.3f,Edinburgh Napier University,Edinburgh Napier University
+grid.20515.33,University of Tsukuba,University of Tsukuba
+grid.205975.c,"University of California, Santa Cruz",University of California Santa Cruz
+grid.20715.31,Sidi Mohamed Ben Abdellah University,Universite Sidi Mohamed Ben Abdellah Fes
+grid.208226.c,Boston College,Boston College
+grid.20861.3d,California Institute of Technology,California Institute of Technology
+grid.20931.39,Royal Veterinary College,University of London Royal Veterinary College
+grid.21006.35,University of Canterbury,University of Canterbury
+grid.21100.32,York University,York University - Canada
+grid.21107.35,Johns Hopkins University,Johns Hopkins University
+grid.213876.9,University of Georgia,University of Georgia
+grid.213910.8,Georgetown University,Georgetown University
+grid.213917.f,Georgia Institute of Technology,Georgia Institute of Technology
+grid.214458.e,University of Michigan,University of Michigan
+grid.214572.7,University of Iowa,University of Iowa
+grid.21507.31,University of JaÃ©n,Universidad de Jaen
+grid.215352.2,University of Texas at San Antonio,University of Texas at San Antonio UTSA
+grid.215654.1,Arizona State University,Arizona State University
+grid.21613.37,University of Manitoba,University of Manitoba
+grid.216417.7,Central South University,Central South University
+grid.216499.1,Jadavpur University,Jadavpur University
+grid.216938.7,Nankai University,Nankai University
+grid.21729.3f,Columbia University,Columbia University
+grid.217309.e,Stevens Institute of Technology,Stevens Institute of Technology
+grid.21925.3d,University of Pittsburgh,University of Pittsburgh
+grid.21940.3e,Rice University,Rice University
+grid.22069.3f,East China Normal University,East China Normal University
+grid.22072.35,University of Calgary,University of Calgary
+grid.22098.31,Bar-Ilan University,Bar Ilan University
+grid.221309.b,Hong Kong Baptist University,Hong Kong Baptist University
+grid.222754.4,Korea University,Korea University
+grid.223827.e,University of Utah,University of Utah
+grid.22448.38,George Mason University,George Mason University
+grid.22631.34,"Soas, University of London",University of London School Oriental & African Studies SOAS
+grid.22903.3a,American University of Beirut,American University of Beirut
+grid.22935.3f,China Agricultural University,China Agricultural University
+grid.22937.3d,Medical University of Vienna,Medical University of Vienna
+grid.23520.36,University of Burgos,Universidad de Burgos
+grid.23856.3a,Laval University,Laval University
+grid.241116.1,University of Colorado Denver,University of Colorado Denver
+grid.241167.7,Wake Forest University,Wake Forest University
+grid.24434.35,University of Nebraska-Lincoln,University of Nebraska Lincoln
+grid.24515.37,Hong Kong University of Science and Technology,Hong Kong University of Science & Technology
+grid.24516.34,Tongji University,Tongji University
+grid.24539.39,Renmin University of China,Renmin University of China
+grid.24696.3f,Capital Medical University,Capital Medical University
+grid.24805.3b,New Mexico State University,New Mexico State University
+grid.24827.3b,University of Cincinnati,University of Cincinnati
+grid.25055.37,Memorial University of Newfoundland,Memorial University Newfoundland
+grid.25073.33,McMaster University,McMaster University
+grid.25152.31,University of Saskatchewan,University of Saskatchewan
+grid.251916.8,Ajou University,Ajou University
+grid.252119.c,American University in Cairo,American University Cairo
+grid.252470.6,"Asia University, Taiwan",Asia University Taiwan
+grid.252546.2,Auburn University,Auburn University
+grid.252547.3,Auckland University of Technology,Auckland University of Technology
+grid.252890.4,Baylor University,Baylor University
+grid.253264.4,Brandeis University,Brandeis University
+grid.253547.2,"California Polytechnic State University, San Luis Obispo",California Polytechnic State University San Luis Obispo
+grid.253613.0,University of Montana,University of Montana System
+grid.253615.6,George Washington University,George Washington University
+grid.254145.3,"China Medical University, Taiwan",China Medical University Taiwan
+grid.254147.1,China Pharmaceutical University,China Pharmaceutical University
+grid.254224.7,Chung-Ang University,Chung Ang University
+grid.254277.1,Clark University,Clark University
+grid.254444.7,Wayne State University,Wayne State University
+grid.254549.b,Colorado School of Mines,Colorado School of Mines
+grid.254567.7,University of South Carolina,University of South Carolina
+grid.254748.8,Creighton University,Creighton University
+grid.254880.3,Dartmouth College,Dartmouth College
+grid.255364.3,East Carolina University,East Carolina University
+grid.255434.1,Edge Hill University,Edge Hill University
+grid.255501.6,Embry-Riddle Aeronautical University,Embry-Riddle Aeronautical University
+grid.255649.9,Ewha Womans University,Ewha Womans University
+grid.255951.f,Florida Atlantic University,Florida Atlantic University
+grid.255966.b,Florida Institute of Technology,Florida Institute of Technology
+grid.255986.5,Florida State University,Florida State University
+grid.256023.0,Fordham University,Fordham University
+grid.256105.5,Fu Jen Catholic University,Fu Jen Catholic University
+grid.256115.4,Fujita Health University,Fujita Health University
+grid.25627.34,Manchester Metropolitan University,Manchester Metropolitan University
+grid.256304.6,Georgia State University,Georgia State University
+grid.257022.0,Hiroshima University,Hiroshima University
+grid.257060.6,Hofstra University,Hofstra University
+grid.258164.c,Jinan University,Jinan University
+grid.258269.2,Juntendo University,Juntendo University
+grid.258331.e,Kagawa University,Kagawa University
+grid.258518.3,Kent State University,Kent State University
+grid.258622.9,Kindai University,Kindai University Kinki University
+grid.258676.8,Konkuk University,Konkuk University
+grid.25879.31,University of Pennsylvania,University of Pennsylvania
+grid.258799.8,Kyoto University,Kyoto University
+grid.258803.4,Kyungpook National University,Kyungpook National University
+grid.258806.1,Kyushu Institute of Technology (Kyutech),Kyushu Institute of Technology
+grid.259029.5,Lehigh University,Lehigh University
+grid.259237.8,Louisiana Tech University,Louisiana Technical University
+grid.259670.f,Marquette University,Marquette University
+grid.26009.3d,Duke University,Duke University
+grid.260120.7,Mississippi State University,Mississippi State University
+grid.260128.f,Missouri University of Science and Technology,Missouri University of Science & Technology
+grid.260433.0,Nagoya City University,Nagoya City University
+grid.260474.3,Nanjing Normal University,Nanjing Normal University
+grid.260478.f,Nanjing University of Information Science and Technology,Nanjing University of Information Science & Technology
+grid.260539.b,National Chiao Tung University,National Chiao Tung University
+grid.260542.7,National Chung Hsing University,National Chung Hsing University
+grid.260567.0,National Dong Hwa University,National Dong Hwa University
+grid.260664.0,National Taiwan Ocean University,National Taiwan Ocean University
+grid.260770.4,National Yang-Ming University,National Yang Ming University
+grid.260896.3,New Jersey Institute of Technology,New Jersey Institute of Technology
+grid.26091.3c,Keio University,Keio University
+grid.260975.f,Niigata University,Niigata University
+grid.261112.7,Northeastern University US,Northeastern University
+grid.261120.6,Northern Arizona University,Northern Arizona University
+grid.261277.7,Oakland University,Oakland University
+grid.261331.4,Ohio State University,Ohio State University
+grid.261356.5,Okayama University,Okayama University
+grid.261368.8,Old Dominion University,Old Dominion University
+grid.261445.0,Osaka City University,Osaka City University
+grid.261674.0,Panjab University,Panjab University
+grid.262075.4,Portland State University,Portland State University
+grid.262229.f,Pusan National University,Pusan National University
+grid.262564.1,Rikkyo University,Rikkyo University
+grid.262613.2,Rochester Institute of Technology,Rochester Institute of Technology
+grid.262743.6,Rush University,Rush University
+grid.262962.b,Saint Louis University,Saint Louis University
+grid.263023.6,Saitama University,Saitama University
+grid.263081.e,San Diego State University,San Diego State University
+grid.263145.7,Scuola Superiore Santâ€™Anna,Scuola Superiore Sant'Anna
+grid.263171.0,Sapporo Medical University,Sapporo Medical University
+grid.263333.4,Sejong University,Sejong University
+grid.263451.7,Shantou University,Shantou University
+grid.263488.3,Shenzhen University,Shenzhen University
+grid.263518.b,Shinshu University,Shinshu University
+grid.263736.5,Sogang University,Sogang University
+grid.263761.7,Soochow University,Suzhou University
+grid.263826.b,Southeast University,Southeast University - China
+grid.264200.2,"St Georges, University of London",ST GEORGES UNIVERSITY LONDON
+grid.264260.4,"Binghamton University, State University of New York",State University of New York SUNY Binghamton
+grid.264381.a,Sungkyunkwan University (SKKU),Sungkyunkwan University
+grid.264484.8,Syracuse University,Syracuse University
+grid.264706.1,Teikyo University,Teikyo University
+grid.264727.2,Temple University,Temple University
+grid.264756.4,Texas A&M University,Texas A&M University College Station
+grid.264772.2,Texas State University,Texas State University San Marcos
+grid.264784.b,Texas Tech University,Texas Tech University
+grid.264889.9,William & Mary,William & Mary
+grid.265050.4,Toho University,Toho University
+grid.265073.5,Tokyo Medical and Dental University (TMDU),Tokyo Medical & Dental University TMDU
+grid.265074.2,Tokyo Metropolitan University,Tokyo Metropolitan University
+grid.265219.b,Tulane University,Tulane University
+grid.265695.b,UniversitÃ© du QuÃ©bec,University of Quebec
+grid.265880.1,The University of Aizu,University of Aizu
+grid.265892.2,University of Alabama at Birmingham,University of Alabama Birmingham
+grid.265893.3,University of Alabama in Huntsville,University of Alabama Huntsville
+grid.26597.3f,Teesside University,University of Teesside
+grid.266093.8,"University of California, Irvine",University of California Irvine
+grid.266096.d,"University of California, Merced",University of California Merced
+grid.266097.c,"University of California, Riverside",University of California Riverside
+grid.266100.3,"University of California, San Diego",University of California San Diego
+grid.266190.a,University of Colorado Boulder,University of Colorado Boulder
+grid.266231.2,University of Dayton,University of Dayton
+grid.266239.a,University of Denver,University of Denver
+grid.266436.3,University of Houston,University of Houston
+grid.266456.5,University of Idaho,University of Idaho
+grid.266515.3,University of Kansas,University of Kansas
+grid.266539.d,University of Kentucky,University of Kentucky
+grid.266673.0,"University of Maryland, Baltimore County",University of Maryland Baltimore County
+grid.266684.8,University of Massachusetts,University of Massachusetts System
+grid.266813.8,University of Nebraska Medical Center,University of Nebraska Medical Center
+grid.266832.b,University of New Mexico,University of New Mexico
+grid.266842.c,The University of Newcastle Australia,University of Newcastle
+grid.266860.c,University of North Carolina at Greensboro,University of North Carolina Greensboro
+grid.266876.b,University of Northern British Columbia (UNBC),University of North British Columbia
+grid.266886.4,The University of Notre Dame Australia,University of Notre Dame Australia
+grid.266900.b,University of Oklahoma,University of Oklahoma System
+grid.267102.0,University of San Diego,University of San Diego
+grid.267134.5,University of Seoul,University of Seoul
+grid.267153.4,University of South Alabama,University of South Alabama
+grid.267169.d,University of South Dakota,University of South Dakota
+grid.267315.4,University of Texas at Arlington,University of Texas Arlington
+grid.267323.1,University of Texas at Dallas,University of Texas Dallas
+grid.267324.6,University of Texas at El Paso,University of Texas El Paso
+grid.267335.6,Tokushima University,Tokushima University
+grid.267337.4,University of Toledo,University of Toledo
+grid.267360.6,University of Tulsa,University of Tulsa
+grid.267370.7,University of Ulsan,University of Ulsan
+grid.267455.7,University of Windsor,University of Windsor
+grid.267468.9,University of Wisconsin-Milwaukee,University of Wisconsin Milwaukee
+grid.267500.6,University of Yamanashi,University of Yamanashi
+grid.267827.e,Victoria University of Wellington,Victoria University Wellington
+grid.26790.3a,University of Miami,University of Miami
+grid.26811.3c,Miguel HernÃ¡ndez University of Elche,Universidad Miguel Hernandez de Elche
+grid.268154.c,West Virginia University,West Virginia University
+grid.268323.e,Worcester Polytechnic Institute,Worcester Polytechnic Institute
+grid.268394.2,Yamagata University,Yamagata University
+grid.268415.c,Yangzhou University,Yangzhou University
+grid.268441.d,Yokohama City University,Yokohama City University
+grid.268446.a,Yokohama National University,Yokohama National University
+grid.26999.3d,University of Tokyo,University of Tokyo
+grid.272264.7,Hyogo College of Medicine,Hyogo College of Medicine
+grid.272362.0,"University of Nevada, Las Vegas",University of Nevada Las Vegas
+grid.27255.37,Shandong University,Shandong University
+grid.273335.3,University at Buffalo,State University of New York SUNY Buffalo
+grid.27446.33,Northeast Normal University,Northeast Normal University - China
+grid.27476.30,Nagoya University,Nagoya University
+grid.274841.c,Kumamoto University,Kumamoto University
+grid.27736.37,Tomsk Polytechnic University,Tomsk Polytechnic University
+grid.27755.32,University of Virginia,University of Virginia
+grid.278276.e,Kochi University,Kochi University
+grid.27860.3b,"University of California, Davis",University of California Davis
+grid.27871.3b,Nanjing Agricultural University,Nanjing Agricultural University
+grid.28020.38,University of AlmerÃ­a,Universidad de Almeria
+grid.28046.38,University of Ottawa,University of Ottawa
+grid.28056.39,East China University of Science and Technology,East China University of Science & Technology
+grid.281386.6,Western Washington University,Western Washington University
+grid.284723.8,Southern Medical University,Southern Medical University - China
+grid.28479.30,King Juan Carlos University,Universidad Rey Juan Carlos
+grid.28577.3f,"City, University of London",City University London
+grid.289247.2,Kyung Hee University,Kyung Hee University
+grid.29172.3f,University of Lorraine,Universite de Lorraine
+grid.29857.31,Pennsylvania State University,Penn State University
+grid.29980.3a,University of Otago,University of Otago
+grid.30055.33,Dalian University of Technology,Dalian University of Technology
+grid.30064.31,Washington State University,Washington State University
+grid.31143.34,Mohammed V University of Rabat,Mohammed V University
+grid.31432.37,Kobe University,Kobe University
+grid.31501.36,Seoul National University,Seoul National University
+grid.32056.32,Savitribai Phule Pune University,Savitribai Phule Pune University
+grid.32197.3e,Tokyo Institute of Technology,Tokyo Institute of Technology
+grid.32495.39,Peter the Great St Petersburg Polytechnic University,Peter the Great St. Petersburg Polytechnic University
+grid.33003.33,Suez Canal University,Suez Canal University
+grid.33199.31,Huazhong University of Science and Technology,Huazhong University of Science & Technology
+grid.33236.37,University of Bergamo,University of Bergamo
+grid.33489.35,University of Delaware,University of Delaware
+grid.33647.35,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute
+grid.33763.32,Tianjin University,Tianjin University
+grid.34421.30,Iowa State University,Iowa State University
+grid.34428.39,Carleton University,Carleton University
+grid.34429.38,University of Guelph,University of Guelph
+grid.34477.33,University of Washington,University of Washington
+grid.34980.36,Indian Institute of Science Bangalore,Indian Institute of Science IISC - Bangalore
+grid.34988.3e,Free University of Bozen-Bolzano,Free University of Bozen-Bolzano
+grid.35030.35,City University of Hong Kong,City University of Hong Kong
+grid.35043.31,National University of Science and Technology (MISiS),National University of Science & Technology MISIS
+grid.35155.37,Huazhong Agricultural University,Huazhong Agricultural University
+grid.35349.38,University of Roehampton,Roehampton University
+grid.35403.31,University of Illinois at Urbana Champaign,University of Illinois Urbana-Champaign
+grid.35541.36,Korea Institute of Science and Technology,Korea Institute of Science & Technology
+grid.35915.3b,Saint Petersburg State University of ITMO,ITMO University
+grid.36083.3e,Open University of Catalonia,UOC Universitat Oberta de Catalunya
+grid.36316.31,University of Greenwich,University of Greenwich
+grid.36425.36,Stony Brook University,State University of New York SUNY Stony Brook
+grid.36511.30,University of Lincoln,University of Lincoln
+grid.36567.31,Kansas State University,Kansas State University
+grid.37172.30,Korea Advanced Institute of Science and Technology (KAIST),Korea Advanced Institute of Science & Technology KAIST
+grid.37553.37,Jordan University of Science and Technology,Jordan University of Science & Technology
+grid.37589.30,National Central University,National Central University
+grid.38142.3c,Harvard University,Harvard University
+grid.38348.34,National Tsing Hua University,National Tsing Hua University
+grid.38603.3e,University of Split,University of Split
+grid.39158.36,Hokkaido University,Hokkaido University
+grid.39381.30,Western University Canada,Western University University of Western Ontario
+grid.39436.3b,Shanghai University,Shanghai University
+grid.39679.32,New Mexico Institute of Mining and Technology,New Mexico Institute of Mining Technology
+grid.40263.33,Brown University,Brown University
+grid.40803.3f,North Carolina State University,North Carolina State University
+grid.410319.e,Concordia University,Concordia University - Canada
+grid.410356.5,Queen's University,Queens University - Canada
+grid.410367.7,University of Rovira i Virgili,Universitat Rovira i Virgili
+grid.410368.8,University of Rennes 1,Universite de Rennes 1
+grid.410413.3,Graz University of Technology,Graz University of Technology
+grid.410445.0,University of Hawaiâ€™i at MÄnoa,University of Hawaii Manoa
+grid.410543.7,SÃ£o Paulo State University (UNESP),Universidade Estadual Paulista
+grid.410658.e,University of South Wales,University of South Wales
+grid.410682.9,Higher School of Economics,National Research University - Higher School of Economics
+grid.410714.7,Showa University,Showa University
+grid.410783.9,Kansai Medical University,Kansai Medical University
+grid.410793.8,Tokyo Medical University,Tokyo Medical University
+grid.410821.e,Nippon Medical School,Nippon Medical School
+grid.410877.d,Universiti Teknologi Malaysia,Universiti Teknologi Malaysia
+grid.410926.8,Polytechnic Institute of Porto,Polytechnic Institute of Porto
+grid.411015.0,University of Alabama,University of Alabama Tuscaloosa
+grid.411017.2,University of Arkansas,University of Arkansas Fayetteville
+grid.411040.0,Iuliu Ha?ieganu University of Medicine and Pharmacy,Iuliu Hatieganu University of Medicine & Pharmacy
+grid.411087.b,University of Campinas,Universidade Estadual de Campinas
+grid.411114.0,Acharya Nagarjuna University,not found
+grid.411170.2,Fayoum University,Fayoum University
+grid.411196.a,Kuwait University,Kuwait University
+grid.411221.5,Federal University of Pelotas,Universidade Federal de Pelotas
+grid.411234.1,Aichi Medical University,Aichi Medical University
+grid.411237.2,Federal University of Santa Catarina,Universidade Federal de Santa Catarina UFSC
+grid.411247.5,Federal University of São Carlos,not found
+grid.411249.b,Federal University of SÃ£o Paulo (UNIFESP),Universidade Federal de Sao Paulo UNIFESP
+grid.411301.6,Ferdowsi University of Mashhad,Ferdowsi University Mashhad
+grid.411323.6,Lebanese American University,Lebanese American University
+grid.411335.1,Alfaisal University,Alfaisal University
+grid.411340.3,Aligarh Muslim University,Aligarh Muslim University
+grid.411365.4,American University of Sharjah,American University of Sharjah
+grid.411368.9,Amirkabir University of Technology,Amirkabir University of Technology
+grid.411370.0,Amrita Vishwa Vidyapeetham,Amrita Vishwa Vidyapeetham University
+grid.411461.7,"University of Tennessee, Knoxville",University of Tennessee Knoxville
+grid.411468.e,Azarbaijan Shahid Madani University,not found
+grid.411496.f,Babol Noshirvani University of Technology,Babol Noshirvani University of Technology
+grid.411498.1,University of Baghdad,University of Baghdad
+grid.411507.6,Banaras Hindu University,Banaras Hindu University
+grid.411510.0,China University of Mining and Technology,China University of Mining & Technology
+grid.411519.9,"China University of Petroleum, Beijing",China University of Petroleum
+grid.411545.0,Chonbuk National University,Chonbuk National University
+grid.41156.37,Nanjing University,Nanjing University
+grid.411583.a,Mashhad University of Medical Sciences,Mashhad University Medical Science
+grid.411595.d,Industrial University of Santander (UIS),Universidad Industrial de Santander
+grid.411600.2,Shahid Beheshti University of Medical Sciences,Shahid Beheshti University Medical Sciences
+grid.411604.6,Fuzhou University,Fuzhou University
+grid.411622.2,University of Mazandaran,University of Mazandaran
+grid.411649.f,Chung Yuan Christian University,Chung Yuan Christian University
+grid.411660.4,Benha University,Benha University
+grid.411662.6,Beni-Suef University,Beni Suef University
+grid.411705.6,Tehran University of Medical Sciences,Tehran University of Medical Sciences
+grid.411739.9,Erciyes University,Erciyes University
+grid.411746.1,Iran University of Medical Sciences,Iran University of Medical Sciences
+grid.411748.f,Iran University of Science and Technology,Iran University Science & Technology
+grid.411750.6,University of Isfahan,University of Isfahan
+grid.411751.7,Isfahan University of Technology,Isfahan University of Technology
+grid.411818.5,Jamia Millia Islamia,Jamia Millia Islamia
+grid.411819.4,Grenoble Alpes University,Universite Grenoble Alpes (UGA)
+grid.411840.8,Cadi Ayyad University,University of Marrakech Cadi Ayyad
+grid.411872.9,University of Guilan,University of Guilan
+grid.411898.d,Jikei University School of Medicine,Jikei University
+grid.411932.c,Covenant University,Covenant University
+grid.411951.9,Hamamatsu University School of Medicine,Hamamatsu University School of Medicine
+grid.411958.0,Australian Catholic University,Australian Catholic University
+grid.411976.c,K.N. Toosi University of Technology,K. N. Toosi University of Technology
+grid.411978.2,Kafrelsheikh University,Kafrelsheikh University
+grid.411987.2,De La Salle University,De La Salle University
+grid.412019.f,Kaohsiung Medical University,Kaohsiung Medical University
+grid.412022.7,Nanjing Tech University,Nanjing Tech University
+grid.412036.2,National Sun Yat-Sen University,National Sun Yat Sen University
+grid.412041.2,University of Bordeaux,Universite de Bordeaux
+grid.412042.1,National Chengchi University,National Chengchi University
+grid.412057.5,University of Kashan,University Kashan
+grid.41206.31,Anadolu University,Anadolu University
+grid.412087.8,National Taipei University of Technology,National Taipei University of Technology
+grid.412090.e,National Taiwan Normal University,National Taiwan Normal University
+grid.412108.e,National University of Cuyo,University Nacional Cuyo Mendoza
+grid.412113.4,Universiti Kebangsaan Malaysia,Universiti Kebangsaan Malaysia
+grid.412117.0,National University of Sciences and Technology,National University of Sciences & Technology - Pakistan
+grid.412124.0,University of Sfax,Universite de Sfax
+grid.412125.1,King Abdulaziz University,King Abdulaziz University
+grid.412135.0,King Fahd University of Petroleum and Minerals,King Fahd University of Petroleum & Minerals
+grid.412149.b,King Saud bin Abdulaziz University for Health Sciences,King Saud Bin Abdulaziz University for Health Sciences
+grid.412151.2,King Mongkutâ€™s University of Technology Thonburi,King Mongkuts University of Technology Thonburi
+grid.412163.3,University of La Frontera,Universidad de La Frontera
+grid.412187.9,University of Desarrollo,Universidad del Desarrollo
+grid.412193.c,Diego Portales University,University Diego Portales
+grid.412252.2,Northeastern University China,Northeastern University - China
+grid.412258.8,Tanta University,Tanta University
+grid.412261.2,Universiti Tunku Abdul Rahman (UTAR),University of Tunku Abdul Rahman
+grid.412262.1,Northwest University,Northwest University Xi'an
+grid.412304.0,University of Lille,Universite de Lille
+grid.412313.6,Sri Venkateswara University,Sri Venkateswara University
+grid.412368.a,Federal University of ABC (UFABC),Universidade Federal do ABC UFABC
+grid.412419.b,Osmania University,Osmania University
+grid.412436.6,Thapar University,Thapar University
+grid.412502.0,Shahid Beheshti University,Shahid Beheshti University
+grid.412517.4,Pondicherry University,Pondicherry University
+grid.412519.a,Pontifical Catholic University of Rio Grande do Sul (PUCRS),Pontificia Universidade Catolica Do Rio Grande Do Sul
+grid.412522.2,Pontificia Universidade Catolica do Parana,Pontificia Universidade Catolica do Parana
+grid.412553.4,Sharif University of Technology,Sharif University of Technology
+grid.412573.6,Shiraz University,Shiraz University
+grid.412603.2,Qatar University,Qatar University
+grid.412659.d,Sohag University,Sohag University
+grid.412684.d,University of Ostrava,University of Ostrava
+grid.412789.1,University of Sharjah,University of Sharjah
+grid.412804.b,Toyohashi University of Technology (TUT),Toyohashi University of Technology
+grid.412810.e,Tshwane University of Technology,Tshwane University of Technology
+grid.412813.d,Vellore Institute of Technology University,Vellore Institute of Technology
+grid.412831.d,University of Tabriz,University of Tabriz
+grid.412846.d,Sultan Qaboos University,Sultan Qaboos University
+grid.412861.8,Autonomous University of QuerÃ©taro,Universidad Autonoma de Queretaro
+grid.412889.e,University of Costa Rica,Universidad Costa Rica
+grid.412896.0,Taipei Medical University,Taipei Medical University
+grid.412982.4,Xiangtan University,Xiangtan University
+grid.412988.e,University of Johannesburg,University of Johannesburg
+grid.413016.1,"University of Agriculture, Faisalabad",University of Agriculture Faisalabad
+grid.413028.c,Yeungnam University,Yeungnam University
+grid.413050.3,Yuan Ze University,Yuan Ze University
+grid.41312.35,Pontifical Xavierian University,Pontificia Universidad Javeriana
+grid.414601.6,Brighton and Sussex Medical School,not found
+grid.417959.7,"Indian Institute of Science Education and Research, Pune",Indian Institute of Science Education & Research IISER Pune
+grid.417960.d,Indian Institute of Science Education and Research Kolkata,Indian Institute of Science Education & Research IISER - Kolkata
+grid.417965.8,Indian Institute of Technology Kanpur,Indian Institute of Technology IIT - Kanpur
+grid.417967.a,Indian Institute of Technology Delhi,Indian Institute of Technology IIT - Delhi
+grid.417969.4,Indian Institute of Technology Madras,Indian Institute of Technology IIT - Madras
+grid.417971.d,Indian Institute of Technology Bombay,Indian Institute of Technology IIT - Bombay
+grid.417972.e,Indian Institute of Technology Guwahati,Indian Institute of Technology IIT - Guwahati
+grid.417984.7,Indian School of Mines,Indian Institute of Technology Indian School of Mines Dhanbad
+grid.418391.6,"Birla Institute of Technology and Science, Pilani",Birla Institute of Technology and Science Pilani BITS Pilani
+grid.41891.35,Montana State University,Montana State University
+grid.418920.6,COMSATS University Islamabad,COMSATS Institute of Information Technology CIIT
+grid.419653.c,"National Institute of Technology, Tiruchirappalli",National Institute Technology Tiruchirappalli
+grid.419886.a,Monterrey Institute of Technology and HE,Tecnologico de Monterrey
+grid.424447.5,Ã‰cole des Ponts ParisTech,Ecole des Ponts ParisTech
+grid.42505.36,University of Southern California,University of Southern California
+grid.42629.3b,Northumbria University,Northumbria University
+grid.42687.3f,Ulsan National Institute of Science and Technology,Ulsan National Institute of Science & Technology
+grid.4280.e,National University of Singapore,National University of Singapore
+grid.429017.9,Indian Institute of Technology Kharagpur,Indian Institute of Technology IIT - Kharagpur
+grid.429997.8,Tufts University,Tufts University
+grid.430387.b,"Rutgers, the State University of New Jersey",Rutgers State University New Brunswick
+grid.4305.2,University of Edinburgh,University of Edinburgh
+grid.431331.7,Batchelor Institute of Indigenous Tertiary Education,not found
+grid.431470.5,University of Divinity,not found
+grid.43169.39,Xiâ€™an Jiaotong University,Xi'an Jiaotong University
+grid.434933.a,Institut Teknologi Bandung,Institute Technology of Bandung
+grid.43519.3a,United Arab Emirates University,United Arab Emirates University
+grid.43555.32,Beijing Institute of Technology,Beijing Institute of Technology
+grid.4367.6,Washington University in St Louis,Washington University WUSTL
+grid.437123.0,University of Macau,University of Macau
+grid.438526.e,Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute & State University
+grid.4391.f,Oregon State University,Oregon State University
+grid.440424.2,AtÄ±lÄ±m University,Atilim University
+grid.440568.b,Khalifa University,Khalifa University of Science & Technology
+grid.440588.5,Northwestern Polytechnical University,Northwestern Polytechnical University
+grid.440592.e,Pontifical Catholic University of Peru,Pontificia Universidad Catolica del Peru
+grid.440614.3,Southern University of Science and Technology (SUSTech),Southern University of Science & Technology
+grid.440736.2,Xidian University,Xidian University
+grid.440785.a,Jiangsu University,Jiangsu University
+grid.440907.e,Paris Sciences et Lettres â€“ PSL Research University Paris,PSL Research University Paris ComUE
+grid.4422.0,Ocean University of China,Ocean University of China
+grid.442401.7,University of BÃ©jaÃ¯a,Universite de Bejaia
+grid.4425.7,Liverpool John Moores University,Liverpool John Moores University
+grid.443239.b,University of the Philippines,University of the Philippines System
+grid.443909.3,University of Chile,Universidad de Chile
+grid.444359.b,JSS Academy of Higher Education and Research,JSS Academy of Higher Education & Research
+grid.444487.f,Universiti Teknologi Petronas,Universiti Teknologi Petronas
+grid.444703.0,National Institute of Technology Rourkela,National Institute of Technology Rourkela
+grid.444860.a,Shiraz University of Technology,Shiraz University of Technology
+grid.445984.0,Belgorod State National Research University,Belgorod State University
+grid.4466.0,Polytechnic University of Bari,Politecnico di Bari
+grid.448072.d,"University of Chemistry and Technology, Prague","University of Chemistry & Technology, Prague"
+grid.4488.0,Dresden University of Technology,Dresden University of Technology
+grid.448834.7,Gebze Technical University,Gebze Technical University
+grid.4489.1,University of Granada,University of Granada
+grid.4491.8,Charles University in Prague,Charles University Prague
+grid.449625.8,Torrens University Australia,not found
+grid.450280.b,Indian Institute of Technology Indore,Indian Institute of Technology IIT - Indore
+grid.451239.8,Sciences Po,Institut d'Etudes Politiques Paris SciencePo
+grid.4514.4,Lund University,Lund University
+grid.4521.2,University of Las Palmas de Gran Canaria,Universidad de Las Palmas de Gran Canaria
+grid.45349.3f,ISCTE-University Institute of Lisbon,Instituto Universitario de Lisboa
+grid.4563.4,University of Nottingham,University of Nottingham
+grid.45907.3f,National Taiwan University of Science and Technology (Taiwan Tech),National Taiwan University of Science & Technology
+grid.459611.e,Indian Institute of Technology Bhubaneswar,Indian Institute of Technology Bhubaneswar
+grid.459612.d,Indian Institute of Technology Hyderabad,Indian Institute of Technology IIT - Hyderabad
+grid.45982.32,Tezpur University,Tezpur University
+grid.4605.7,Novosibirsk State University,Novosibirsk State University
+grid.46072.37,University of Tehran,University of Tehran
+grid.460771.3,Normandy University,Normandie Universite
+grid.46078.3d,University of Waterloo,University of Waterloo
+grid.461025.4,University College Lahore,Government College University Lahore
+grid.461270.6,Eastern Mediterranean University,Eastern Mediterranean University
+grid.462044.0,Avondale College of Higher Education,not found
+grid.462844.8,Sorbonne University,Sorbonne Universite
+grid.462999.9,Universiti Utara Malaysia,Universiti Utara Malaysia
+grid.4643.5,Polytechnic University of Milan,Polytechnic University of Milan
+grid.4655.2,Copenhagen Business School,Copenhagen Business School
+grid.469086.5,National Taipei University,National Taipei University
+grid.4691.a,University of Naples Federico II,University of Naples Federico II
+grid.4701.2,University of Portsmouth,University of Portsmouth
+grid.4708.b,University of Milan,University of Milan
+grid.47100.32,Yale University,Yale University
+grid.4714.6,Karolinska Institute,Karolinska Institutet
+grid.4777.3,Queenâ€™s University Belfast,Queens University Belfast
+grid.47840.3f,"University of California, Berkeley",University of California Berkeley
+grid.47894.36,Colorado State University,Colorado State University
+grid.4793.9,Aristotle University of Thessaloniki,Aristotle University of Thessaloniki
+grid.4795.f,Complutense University of Madrid,Complutense University of Madrid
+grid.4800.c,Polytechnic University of Turin,Polytechnic University of Turin
+grid.4808.4,University of Zagreb,University of Zagreb
+grid.4817.a,University of Nantes,Universite de Nantes
+grid.4818.5,Wageningen University & Research,Wageningen University & Research
+grid.4827.9,Swansea University,Swansea University
+grid.4830.f,University of Groningen,University of Groningen
+grid.4839.6,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),Pontificia Universidade Catolica do Rio de Janeiro
+grid.484611.e,Universiti Tenaga Nasional (UNITEN),University of Tenaga Nasional
+grid.4861.b,University of LiÃ¨ge,University of Liege
+grid.486295.4,IMT Atlantique,IMT Atlantique
+grid.4868.2,Queen Mary University of London,Queen Mary University London
+grid.48815.30,De Montfort University,De Montfort University
+grid.49100.3c,Pohang University of Science and Technology (POSTECH),Pohang University of Science & Technology POSTECH
+grid.4912.e,Royal College of Surgeons in Ireland (RCSI),Royal College of Surgeons - Ireland
+grid.493090.7,UniversitÃ© Bourgogne Franche-ComtÃ© (UBFC),Universite Bourgogne Franche-Comte (ComUE)
+grid.494567.d,CentraleSupÃ©lec,CentraleSupelec
+grid.49470.3e,Wuhan University,Wuhan University
+grid.494717.8,University of Clermont Auvergne,Universite Clermont Auvergne (UCA)
+grid.49481.30,University of Waikato,University of Waikato
+grid.49606.3d,Hanyang University,Hanyang University
+grid.49697.35,University of Pretoria,University of Pretoria
+grid.4970.a,"Royal Holloway, University of London",Royal Holloway University London
+grid.4989.c,UniversitÃ© Libre de Bruxelles,Universite Libre de Bruxelles
+grid.4991.5,University of Oxford,University of Oxford
+grid.4994.0,Brno University of Technology,Brno University of Technology
+grid.5012.6,Maastricht University,Maastricht University
+grid.5037.1,Royal Institute of Technology,Royal Institute of Technology
+grid.5100.4,University of Bucharest,University of Bucharest
+grid.5110.5,University of Graz,University of Graz
+grid.5115.0,Anglia Ruskin University,Anglia Ruskin University
+grid.5117.2,Aalborg University,Aalborg University
+grid.5132.5,University of Leiden,Leiden University
+grid.5133.4,University of Trieste,University of Trieste
+grid.5170.3,Technical University of Denmark,Technical University of Denmark
+grid.5214.2,Glasgow Caledonian University,Glasgow Caledonian University
+grid.5216.0,National and Kapodistrian University of Athens,University of Athens
+grid.5252.0,Ludwig Maximilian University of Munich,University of Munich
+grid.5254.6,University of Copenhagen,University of Copenhagen
+grid.5268.9,University of Alicante,Universitat d'Alacant
+grid.5284.b,University of Antwerp,University of Antwerp
+grid.5288.7,Oregon Health and Science University,Oregon Health & Science University
+grid.5290.e,Waseda University,Waseda University
+grid.5292.c,Delft University of Technology,Delft University of Technology
+grid.5329.d,Vienna University of Technology,Vienna University of Technology
+grid.5330.5,University of Erlangen-Nuremberg,University of Erlangen Nuremberg
+grid.5333.6,Ecole Polytechnique Federale de Lausanne,Ecole Polytechnique Federale de Lausanne
+grid.5334.1,SabancÄ± University,Sabanci University
+grid.5335.0,University of Cambridge,University of Cambridge
+grid.5337.2,University of Bristol,University of Bristol
+grid.5338.d,University of Valencia,University of Valencia
+grid.5342.0,Ghent University,Ghent University
+grid.5371.0,Chalmers University of Technology,Chalmers University of Technology
+grid.5373.2,Aalto University,Aalto University
+grid.5379.8,University of Manchester,University of Manchester
+grid.5380.e,Universidad de Concepcion,Universidad de Concepcion
+grid.5386.8,Cornell University,Cornell University
+grid.5390.f,University of Udine,University of Udine
+grid.5395.a,University of Pisa,University of Pisa
+grid.5399.6,Aix-Marseille University,Aix-Marseille Universite
+grid.5475.3,University of Surrey,University of Surrey
+grid.5477.1,Utrecht University,Utrecht University
+grid.5491.9,University of Southampton,University of Southampton
+grid.5510.1,University of Oslo,University of Oslo
+grid.5515.4,Autonomous University of Madrid,Autonomous University of Madrid
+grid.5522.0,Jagiellonian University,Jagiellonian University
+grid.55602.34,Dalhousie University,Dalhousie University
+grid.5570.7,Ruhr University Bochum,Ruhr University Bochum
+grid.5590.9,Radboud University Nijmegen,Radboud University Nijmegen
+grid.5591.8,EÃ¶tvÃ¶s LorÃ¡nd University,Eotvos Lorand University
+grid.5596.f,KU Leeuven,KU Leuven
+grid.5600.3,Cardiff University,Cardiff University
+grid.5601.2,University of Mannheim,University of Mannheim
+grid.5603.0,University of Greifswald,Ernst Moritz Arndt Universitat Greifswald
+grid.5606.5,University of Genoa,University of Genoa
+grid.5608.b,University of Padua,University of Padua
+grid.5611.3,Verona University,University of Verona
+grid.5612.0,Pompeu Fabra University,Pompeu Fabra University
+grid.56302.32,King Saud University,King Saud University
+grid.5633.3,"Adam Mickiewicz University, PoznaÅ„",Adam Mickiewicz University
+grid.5640.7,LinkÃ¶ping University,Linkoping University
+grid.5675.1,Technical University of Dortmund,Dortmund University of Technology
+grid.5685.e,University of York,University of York - UK
+grid.5690.a,Technical University of Madrid,Polytechnic University of Madrid
+grid.5718.b,University of Duisburg-Essen,University of Duisburg Essen
+grid.5719.a,University of Stuttgart,University of Stuttgart
+grid.5734.5,University of Bern,University of Bern
+grid.57686.3a,University of Derby,University of Derby
+grid.5771.4,University of Innsbruck,University of Innsbruck
+grid.57926.3f,University of Regina,University of Regina
+grid.5801.c,Swiss Federal Institute of Technology in Zurich,ETH Zurich
+grid.5802.f,Johannes Gutenberg University of Mainz,Johannes Gutenberg University of Mainz
+grid.5807.a,Otto von Guericke University of Magdeburg,Otto von Guericke University
+grid.5808.5,University of Porto,Universidade do Porto
+grid.5836.8,University of Siegen,Universitat Siegen
+grid.5841.8,University of Barcelona,University of Barcelona
+grid.5842.b,University of Paris-Sud,UNIVERSITE PARIS SUD - PARIS 11
+grid.5846.f,University of Hertfordshire,University of Hertfordshire
+grid.5884.1,Sheffield Hallam University,Sheffield Hallam University
+grid.59025.3b,Nanyang Technological University,Nanyang Technological University
+grid.59053.3a,University of Science and Technology of China,University of Science & Technology of China
+grid.59062.38,University of Vermont,University of Vermont
+grid.5924.a,University of Navarra,University of Navarra
+grid.5947.f,Norwegian University of Science and Technology,Norwegian University of Science & Technology NTNU
+grid.5949.1,University of MÃ¼nster,University of Munster
+grid.59490.31,Robert Gordon University,Robert Gordon University
+grid.5963.9,University of Freiburg,University of Freiburg
+grid.6093.c,Scuola Normale Superiore di Pisa,Scuola Normale Superiore di Pisa
+grid.60969.30,University of East London,University of East London
+grid.61221.36,Gwangju Institute of Science and Technology,Gwangju Institute of Science & Technology
+grid.6142.1,"National University of Ireland, Galway",National University of Ireland NUI Galway
+grid.61569.3d,Bauman Moscow State Technical University,Bauman Moscow State Technical University
+grid.6190.e,University of Cologne,University of Cologne
+grid.61971.38,Simon Fraser University,Simon Fraser University
+grid.6214.1,University of Twente,University of Twente
+grid.6227.1,University of Technology of CompiÃ¨gne,Universite de Technologie de Compiegne
+grid.6268.a,University of Bradford,University of Bradford
+grid.6292.f,University of Bologna,University of Bologna
+grid.63054.34,University of Connecticut,University of Connecticut
+grid.6312.6,University of Vigo,University of Vigo
+grid.63124.32,American University,American University
+grid.6341.0,Swedish University of Agricultural Sciences,Swedish University of Agricultural Sciences
+grid.6357.7,Suranaree University of Technology,Suranaree University of Technology
+grid.6363.0,CharitÃ© - UniversitÃ¤tsmedizin Berlin,Charite Medical University of Berlin
+grid.6374.6,University of Wolverhampton,University of Wolverhampton
+grid.6390.c,Ã‰cole Normale SupÃ©rieure de Cachan,Ecole Normale Superieure Paris-Saclay
+grid.64337.35,Louisiana State University,Louisiana State University
+grid.6441.7,Vilnius University,Vilnius University
+grid.6451.6,Technion Israel Institute of Technology,Technion Israel Institute of Technology
+grid.64523.36,National Cheng Kung University (NCKU),National Cheng Kung University
+grid.64924.3d,Jilin University,Jilin University
+grid.64939.31,Beihang University,Beihang University
+grid.6518.a,University of the West of England,University of West England
+grid.6530.0,University of Rome II â€“ Tor Vergata,University of Rome Tor Vergata
+grid.65456.34,Florida International University,Florida International University
+grid.6546.1,Technical University of Darmstadt,Darmstadt University of Technology
+grid.6553.5,Ilmenau University of Technology,Technische Universitat Ilmenau
+grid.6571.5,Loughborough University,Loughborough University
+grid.6572.6,University of Birmingham,University of Birmingham
+grid.6582.9,Ulm University,Ulm University
+grid.6603.3,University of Cyprus,University of Cyprus
+grid.6612.3,University of Basel,University of Basel
+grid.6652.7,Czech Technical University in Prague,Czech Technical University Prague
+grid.67105.35,Case Western Reserve University,Case Western Reserve University
+grid.67293.39,Hunan University,Hunan University
+grid.6734.6,Technical University of Berlin,Technical University of Berlin
+grid.6759.d,Budapest University of Technology and Economics,Budapest University of Technology & Economics
+grid.6810.f,Chemnitz University of Technology,Technische Universitat Chemnitz
+grid.6835.8,Polytechnic University of Catalonia,Polytechnic University of Catalonia
+grid.6852.9,Eindhoven University of Technology,Eindhoven University of Technology
+grid.6884.2,Hamburg University of Technology,Hamburg University of Technology
+grid.6906.9,Erasmus University Rotterdam,Erasmus University Rotterdam
+grid.6935.9,Middle East Technical University,Middle East Technical University
+grid.6936.a,Technical University of Munich,Technical University of Munich
+grid.69566.3a,Tohoku University,Tohoku University
+grid.6973.b,Riga Technical University,Riga Technical University
+grid.69775.3a,University of Science and Technology Beijing,University of Science & Technology Beijing
+grid.6988.f,Tallinn University of Technology,Tallinn University of Technology
+grid.7010.6,Marche Polytechnic University,Marche Polytechnic University
+grid.7048.b,Aarhus University,Aarhus University
+grid.70738.3b,University of Alaska Fairbanks,University of Alaska Fairbanks
+grid.7080.f,Autonomous University of Barcelona,Autonomous University of Barcelona
+grid.7107.1,University of Aberdeen,University of Aberdeen
+grid.7119.e,Austral University of Chile,Universidad Austral de Chile
+grid.7122.6,University of Debrecen,University of Debrecen
+grid.7132.7,Chiang Mai University,Chiang Mai University
+grid.7144.6,University of the Aegean,University of Aegean
+grid.7149.b,University of Belgrade,University of Belgrade
+grid.7155.6,Alexandria University,Alexandria University
+grid.7157.4,University of Algarve,Universidade do Algarve
+grid.7159.a,University of AlcalÃ¡,Universidad de Alcala
+grid.7177.6,University of Amsterdam,University of Amsterdam
+grid.7220.7,Metropolitan Autonomous University,Universidad Autonoma Metropolitana - Mexico
+grid.7240.1,Caâ€™ Foscari University of Venice,Universita Ca Foscari Venezia
+grid.7247.6,Universidad de Los Andes,University of the Andes Colombia
+grid.7273.1,Aston University,Aston University
+grid.7311.4,University of Aveiro,Universidade de Lisboa
+grid.7340.0,University of Bath,University of Bath
+grid.7345.5,University of Buenos Aires,University of Buenos Aires
+grid.7362.0,Bangor University,Bangor University
+grid.7372.1,University of Warwick,University of Warwick
+grid.7384.8,University of Bayreuth,University of Bayreuth
+grid.7399.4,BabeÅŸ-Bolyai University,Babes Bolyai University from Cluj
+grid.7400.3,University of Zurich,University of Zurich
+grid.7427.6,University of Beira Interior,Universidade da Beira Interior
+grid.7445.2,Imperial College London,Imperial College London
+grid.7450.6,University of GÃ¶ttingen,University of Gottingen
+grid.7452.4,Paris Diderot University â€“ Paris 7,University of Paris Diderot
+grid.7468.d,Humboldt University of Berlin,Humboldt University of Berlin
+grid.7489.2,Ben-Gurion University of the Negev,Ben Gurion University
+grid.7491.b,Bielefeld University,University of Bielefeld
+grid.7548.e,University of Modena and Reggio Emilia,Universita di Modena e Reggio Emilia
+grid.7563.7,University of Milan-Bicocca,University of Milano-Bicocca
+grid.7605.4,University of Turin,University of Turin
+grid.7628.b,Oxford Brookes University,Oxford Brookes University
+grid.7632.0,University of BrasÃ­lia,Universidade de Brasilia
+grid.7634.6,Comenius University in Bratislava,Comenius University Bratislava
+grid.7637.5,University of Brescia,University of Brescia
+grid.7644.1,University of Bari Aldo Moro,University of Bari
+grid.7645.0,University of Kaiserslautern,University of Kaiserslautern
+grid.7700.0,Heidelberg University,Ruprecht Karls University Heidelberg
+grid.7704.4,University of Bremen,University of Bremen
+grid.77184.3d,Al-Farabi Kazakh National University,Al-Farabi Kazakh National University
+grid.77268.3c,Kazan Federal University,Kazan Federal University
+grid.7728.a,Brunel University London,Brunel University
+grid.7737.4,University of Helsinki,University of Helsinki
+grid.77602.34,Tomsk State University,Tomsk State University
+grid.7763.5,University of Cagliari,University of Cagliari
+grid.77642.30,RUDN University,Peoples Friendship University of Russia
+grid.77667.37,Novosibirsk State Technical University,Novosibirsk State Technical University
+grid.7776.1,Cairo University,Cairo University
+grid.7778.f,University of Calabria,University of Calabria
+grid.7831.d,Catholic University of Portugal,Universidade Catolica Portuguesa
+grid.7836.a,University of Cape Town,University of Cape Town
+grid.7839.5,Goethe University Frankfurt,Goethe University Frankfurt
+grid.7840.b,Carlos III University of Madrid,Universidad Carlos III de Madrid
+grid.7841.a,Sapienza University of Rome,Sapienza University Rome
+grid.7849.2,Claude Bernard University Lyon 1,Universite Claude Bernard Lyon 1
+grid.7870.8,Pontifical Catholic University of Chile,Pontificia Universidad Catolica de Chile
+grid.7872.a,University College Cork,University College Cork
+grid.7886.1,University College Dublin,University College Dublin
+grid.7892.4,Karlsruhe Institute of Technology,Karlsruhe Institute of Technology
+grid.7901.f,University of Cergy-Pontoise,Universite de Cergy-Pontoise
+grid.79011.3e,Samara University,Samara National Research University
+grid.7902.c,Paris Nanterre University,Universite Paris Nanterre
+grid.7914.b,University of Bergen,University of Bergen
+grid.7922.e,Chulalongkorn University,Chulalongkorn University
+grid.7942.8,UniversitÃ© Catholique de Louvain,Universite Catholique Louvain
+grid.7943.9,University of Central Lancashire,University of Central Lancashire
+grid.79703.3a,South China University of Technology,South China University of Technology
+grid.8048.4,University of Castilla-La Mancha,Universidad de Castilla-La Mancha
+grid.8051.c,University of Coimbra,Universidade de Coimbra
+grid.8073.c,University of A CoruÃ±a,Universidade da Coruna
+grid.80817.36,Tribhuvan University,not found
+grid.8096.7,Coventry University,Coventry University
+grid.8127.c,University of Crete,University of Crete
+grid.8142.f,Catholic University of the Sacred Heart,Catholic University of the Sacred Heart
+grid.8158.4,University of Catania,University of Catania
+grid.8186.7,Aberystwyth University,Aberystwyth University
+grid.8195.5,University of Delhi,University of Delhi
+grid.8217.c,Trinity College Dublin,Trinity College Dublin
+grid.8241.f,University of Dundee,University of Dundee
+grid.8250.f,Durham University,Durham University
+grid.8273.e,University of East Anglia,University of East Anglia
+grid.83440.3b,University College London,University College London
+grid.8356.8,University of Essex,University of Essex
+grid.8379.5,University of WÃ¼rzburg,University of Wurzburg
+grid.8389.a,University of Ã‰vora,University of Evora
+grid.8391.3,University of Exeter,University of Exeter
+grid.8399.b,Federal University of Bahia,Universidade Federal da Bahia
+grid.8404.8,University of Florence,University of Florence
+grid.8430.f,Federal University of Minas Gerais,Universidade Federal de Minas Gerais
+grid.8484.0,University of Ferrara,University of Ferrara
+grid.8509.4,University of Rome III,Roma Tre University
+grid.8532.c,Federal University of Rio Grande do Sul,Universidade Federal do Rio Grande do Sul
+grid.8534.a,University of Fribourg,University of Fribourg
+grid.8536.8,Federal University of Rio de Janeiro,Universidade Federal do Rio de Janeiro
+grid.8547.e,Fudan University,Fudan University
+grid.8591.5,University of Geneva,University of Geneva
+grid.8647.d,University of Maribor,University of Maribor
+grid.8652.9,University of Ghana,University of Ghana
+grid.8664.c,University of Giessen,Justus Liebig University Giessen
+grid.86715.3d,UniversitÃ© de Sherbrooke,University of Sherbrooke
+grid.8752.8,University of Salford,University of Salford
+grid.8756.c,University of Glasgow,University of Glasgow
+grid.8761.8,University of Gothenburg,University of Gothenburg
+grid.8767.e,Vrije Universiteit Brussel,Vrije Universiteit Brussel
+grid.88379.3d,"Birkbeck, University of London",Birkbeck University London
+grid.89336.37,The University of Texas at Austin,University of Texas Austin
+grid.8954.0,University of Ljubljana,University of Ljubljana
+grid.8974.2,University of the Western Cape,University of the Western Cape
+grid.8982.b,University of Pavia,University of Pavia
+grid.8993.b,Uppsala University,Uppsala University
+grid.89957.3a,Nanjing Medical University,Nanjing Medical University
+grid.9008.1,University of Szeged,Szeged University
+grid.9024.f,University of Siena,University of Siena
+grid.9026.d,University of Hamburg,University of Hamburg
+grid.9027.c,University of Perugia,University of Perugia
+grid.9122.8,Leibniz University of Hanover,University of Hannover
+grid.9224.d,University of Seville,University of Sevilla
+grid.9435.b,University of Reading,University of Reading
+grid.9464.f,University of Hohenheim,University Hohenheim
+grid.9481.4,University of Hull,University of Hull
+grid.9486.3,National Autonomous University of Mexico,Universidad Nacional Autonoma de Mexico
+grid.95004.38,Maynooth University,Maynooth University
+grid.9531.e,Heriot-Watt University,Heriot Watt University
+grid.9563.9,University of the Balearic Islands,Universitat de les Illes Balears
+grid.9580.4,ReykjavÃ­k University,Reykjavik University
+grid.9581.5,University of Indonesia,University of Indonesia
+grid.9582.6,University of Ibadan,University of Ibadan
+grid.9594.1,University of Ioannina,University of Ioannina
+grid.9601.e,Istanbul University,Istanbul University
+grid.9612.c,Jaume I University,Universitat Jaume I
+grid.9619.7,Hebrew University of Jerusalem,Hebrew University of Jerusalem
+grid.9654.e,University of Auckland,University of Auckland
+grid.9668.1,University of Eastern Finland,University of Eastern Finland
+grid.9670.8,University of Jordan,University of Jordan
+grid.9679.1,University of PÃ©cs,University of Pecs
+grid.9681.6,University of JyvÃ¤skylÃ¤,University of Jyvaskyla
+grid.9707.9,Kanazawa University,Kanazawa University
+grid.9757.c,Keele University,Keele University
+grid.9759.2,University of Kent,University of Kent
+grid.9764.c,University of Kiel,University of Kiel
+grid.9811.1,University of Konstanz,University of Konstanz
+grid.9835.7,Lancaster University,Lancaster University
+grid.9845.0,University of Latvia,University of Latvia
+grid.9851.5,University of Lausanne,University of Lausanne
+grid.9906.6,University of Salento,University of Salento
+grid.9909.9,University of Leeds,University of Leeds
+grid.9918.9,University of Leicester,University of Leicester
+grid.9922.0,AGH University of Science and Technology,AGH University of Science & Technology
+grid.9970.7,Johannes Kepler University of Linz,Johannes Kepler University of Linz
+grid.9983.b,University of Lisbon,Universidade de Lisboa
